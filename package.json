@@ -1,0 +1,8 @@
+{
+  "name": "learn-harmony",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lucasnhso/learn-harmony.git",
+  "author": "Lucas <lucashenrique.d.s.o@gmail.com>",
+  "license": "MIT"
+}
