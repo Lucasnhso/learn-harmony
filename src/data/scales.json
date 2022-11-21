@@ -22,5 +22,11 @@
     "intervalSequence": ["W", "H", "W", "W", "H", "WH", "H"],
     "chordSequence": ["min", "min7b5", "aug", "min", "maj", "maj", "dim"],
     "tetradSequence": ["minmaj7", "min7b5", "maj7#5", "min7", "7", "maj7", "dim7"]
+  },
+  {
+    "name": "dorian",
+    "intervalSequence": ["W", "H", "W", "W", "W", "H", "W"],
+    "chordSequence": ["min", "dim", "maj", "min", "min", "maj", "maj"],
+    "tetradSequence": ["min7", "min7b5", "maj7M", "min7", "min7", "maj7M", "maj7"]
   }
 ]
